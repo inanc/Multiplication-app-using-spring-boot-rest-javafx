@@ -1,6 +1,6 @@
-#Multiplication spring boot rest javafx client
-
-####Install
+# Multiplication spring boot rest javafx client
+A Java REST API implemented using Spring Boot to be used with a Multiplication JavaFX application
+#### Install
 $ git clone https://github.com/inanc/Multiplication-spring-boot-rest-javafx-client.git
 
 
